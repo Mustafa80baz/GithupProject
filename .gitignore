@@ -4,6 +4,7 @@
 out/
 *xml
 
+secret.txt
 !**/src/main/**/out/
 !**/src/test/**/out/
 
